@@ -8,5 +8,6 @@ namespace WebApplication1
     public class Class1
     {
         string test;
+        string empty2;
     }
 }
